@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1. Clone the source code using Git
+1. Clone the source code `git clone git@github.com:kamerontanseli/Roomba.git`
 2. Edit `input.txt` and add your own values
 3. Use `npm start` to execute the program
 
